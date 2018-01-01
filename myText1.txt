@@ -1,3 +1,5 @@
 This is my text file. There are many like it, but this one is mine.
 
 HOTFIX removes test comments!
+
+HOTFIX adds its own comment. //HOTFIX
