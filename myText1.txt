@@ -1,5 +1,3 @@
 This is my text file. There are many like it, but this one is mine.
 
-//Hello, I am a test comment!
-
-//I am another test comment.
+HOTFIX removes test comments!
