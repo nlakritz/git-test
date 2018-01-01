@@ -4,4 +4,4 @@ HOTFIX removes test comments!
 
 HOTFIX adds its own comment. //HOTFIX
 
-I am a bug. Please debug me.
+I am no longer a bug. I am a working feature!
