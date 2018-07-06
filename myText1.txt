@@ -5,3 +5,6 @@ HOTFIX removes test comments!
 HOTFIX adds its own comment. //HOTFIX
 
 I am no longer a bug. I am a working feature!
+
+change 1 
+change 2
